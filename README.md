@@ -1,29 +1,30 @@
-# 100 Days of Code: The Complete Python Pro Bootcamp for 2023 (Udemy)
+# 100 Days of Code – Python Bootcamp (Udemy)
 
-Welcome to my 100-day bootcamp Python repository! This is my journey while taking the course of 100 days of code in Python on Udemy platform. 
- This repository contains the code and notes from my journey to becoming a Python developer.
+This repo tracks my progress through the **100 Days of Code: The Complete Python Pro Bootcamp** on Udemy.  
+I'm a PhD student learning Python alongside my research and slowly building real developer skills.
 
-Overview
-This bootcamp was designed to help me gain a deep understanding of the Python programming language and its various applications. It covers a wide range of topics, including data structures, algorithms, web development, and machine learning.
+## Overview
+The course covers Python from the basics to more applied topics, including:
+- data structures  
+- object-oriented programming  
+- simple automation  
+- web development (Flask, Django)  
+- working with APIs  
+- intro machine learning  
 
-Throughout the bootcamp, I faced many challenges and learned a lot about Python and software development in general. I hope that my notes and code will be helpful to others who are interested in learning Python and becoming a Python developer.
+This repo is mainly for keeping my daily code and quick notes in one place.
 
-Repository contents
-This repository contains the following directories and files:
+## Repository Structure
+- `code/` — code written throughout the bootcamp, organized by day or project  
+- `notes/` — short notes or explanations for concepts learned  
+- `README.md` — this file  
+- (Previously included a small GIF made with LICEcap to visualize one project)
 
-**code**: This directory contains the code that I wrote throughout the bootcamp, organized by topic. Each subdirectory contains code for a specific topic or project.
+## Challenges
+Some things that took extra practice:
+- understanding new data structures (trees, graphs)  
+- debugging as my scripts became more complex  
+- getting used to web frameworks like Flask and Django  
 
-**notes**: This directory contains my notes from each day of the bootcamp, organized by topic. Each file contains notes for a specific topic or project.
+Overall, this bootcamp has been a good way to stay consistent and get more comfortable writing Python.
 
-**readme.md**: This file contains an overview of the repository and its contents. ***To help illustrate the function of the code, I included a gif created with LICEcap. This gif provides a visual representation of how the code operates, allowing you to easily understand its behavior by simply watching it.***
-
-Challenges:
-Throughout the bootcamp, I faced a number of challenges that helped me to improve my skills and understanding of Python. Some of the challenges that I faced included:
-
-Understanding complex data structures and algorithms: Some of the topics covered in the bootcamp, such as trees and graphs, were new to me and required a lot of practice to understand.
-
-Debugging code: As I learned more about Python and started writing more complex programs, I encountered more bugs and had to spend more time debugging my code. "Thonny" application helped a lot!
-
-Working with web development frameworks: Learning to use web development frameworks like Django and Flask was a challenging but rewarding experience.
-
-Despite these challenges, I was able to persevere and learn a lot about Python and software development. I hope that my notes and code will be helpful to others who are embarking on a similar journey. 
