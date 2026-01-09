@@ -21,8 +21,7 @@ By the end of this day, the game is fully playable and behaves the way the class
 
 Here’s a short GIF showing the completed game with scoring and collision detection:
 
-![Snake Game Demo](gif_day-21)
-
+![gif_day-21](https://github.com/user-attachments/assets/32431452-95d9-4091-ba6d-3112eb498467)
 
 ## Notes
 
